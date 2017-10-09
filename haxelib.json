@@ -1,0 +1,17 @@
+{
+	"name": "px",
+	"url": "",
+	"license": "",	
+	"tags": [],
+	"description": "",
+	"releasenote": "",
+	"version": "",
+	"contributors": ["modjke"],
+	"dependencies": {
+		"msignal": "1.2.4",
+		"pixijs": "4.5.5",
+		"howlerjs": "2.0.4",
+		"thx.color": "0.19.1"
+	}
+}
+
